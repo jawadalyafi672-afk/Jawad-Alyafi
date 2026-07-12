@@ -11,7 +11,7 @@ Train an image recognition model using Google Teachable Machine and test it usin
 ### 1. Create and Train the Model
  First, we go to Teachable Machine website  and create to classes at least and named each class that what we want to compare first class "Mobile Phone" and second class "Tablet". Then add as many images as you can to each class to improve the accuracy of the test. After that, press Model training and put extra image to test what it is "Mobile Phone" or "Tablet".
 
-<img width="1911" height="808" alt="Screenshot 2026-07-12 164232" src="https://github.com/user-attachments/assets/f22743a2-8c18-4b04-a675-bb580f0c3487" />
+<img width="1906" height="907" alt="Screenshot 2026-07-12 035421" src="https://github.com/user-attachments/assets/ade03bb0-4932-4b3d-b5c9-8f31785d52e0" />
 
 ### 2. Export the Model
  Next, click Export Model, choose TensorFlow, and then select Keras to download the trained model. After downloading, copy the Python code provided by Teachable Machine.
